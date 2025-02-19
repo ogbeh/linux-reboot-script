@@ -18,20 +18,12 @@ The script adds a cron job to `/etc/crontab` to automatically reboot the system 
 ## 🚀 **Usage**
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/ogbeh/linux-reboot-script
-   cd linux_set_reboot
-   ```
+## 🚀 **One-Click Installation**
 
-2. Make the script executable:
-   ```bash
-   chmod +x setreb.sh
-   ```
+Run the following command to set up the reboot schedule:
 
-3. Run the script with `sudo`:
-   ```bash
-   sudo ./setreb.sh
-   ```
+```bash
+bash <(curl -s https://raw.githubusercontent.com/ogbeh/linux-reboot-script/main/setreb.sh)
 
 ## 📝 **Script Details**
 
