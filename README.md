@@ -19,7 +19,7 @@ The script adds a cron job to `/etc/crontab` to automatically reboot the system 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ogbeh/linux_set_reboot
+   git clone https://github.com/ogbeh/linux-reboot-script
    cd linux_set_reboot
    ```
 
